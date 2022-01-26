@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "82kJu/wMfuoW10EHtEQRnk71zcbByra4d7CbHkxGPK++mfFbsZk4Jj87tXHvQ+4zyb1E+KRqiIP+YUWbEbpQxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\ForİleÇarpımTablosu\\ForİleÇarpımTablosu\\ForİleÇarpımTablosu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

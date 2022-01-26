@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\bin\Debug\net5.0\ForİleÇarpımTablosu.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\bin\Debug\net5.0\ForİleÇarpımTablosu.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\bin\Debug\net5.0\ForİleÇarpımTablosu.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\bin\Debug\net5.0\ForİleÇarpımTablosu.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\bin\Debug\net5.0\ForİleÇarpımTablosu.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\bin\Debug\net5.0\ref\ForİleÇarpımTablosu.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\bin\Debug\net5.0\ForİleÇarpımTablosu.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ref\ForİleÇarpımTablosu.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\ForİleÇarpımTablosu\ForİleÇarpımTablosu\obj\Debug\net5.0\ForİleÇarpımTablosu.genruntimeconfig.cache
